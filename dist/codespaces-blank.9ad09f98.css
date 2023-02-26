@@ -1,0 +1,788 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .desktop-1-child,
+  .desktop-1-item {
+    position: absolute;
+    height: 12.78%;
+    width: 17.63%;
+    top: 27.78%;
+    right: 74.29%;
+    bottom: 59.44%;
+    left: 8.07%;
+    border-radius: var(--br-md);
+    background-color: var(--color-gray-100);
+    border: 2px solid var(--color-gray-200);
+    box-sizing: border-box;
+  }
+  .desktop-1-item {
+    width: 6.77%;
+    right: 74.27%;
+    left: 18.96%;
+    border-radius: 0 var(--br-md) var(--br-md) 0;
+  }
+  .desktop-1-child1,
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8,
+  .desktop-1-inner,
+  .rectangle-div {
+    position: absolute;
+    height: 12.78%;
+    width: 17.63%;
+    top: 43.61%;
+    right: 74.29%;
+    bottom: 43.61%;
+    left: 8.07%;
+    border-radius: var(--br-md);
+    background-color: var(--color-gray-100);
+    border: 2px solid var(--color-gray-200);
+    box-sizing: border-box;
+  }
+  .desktop-1-child1,
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8,
+  .rectangle-div {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child1,
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 27.78%;
+    right: 53.84%;
+    bottom: 59.44%;
+    left: 28.53%;
+  }
+  .desktop-1-child2,
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 43.61%;
+    bottom: 43.61%;
+  }
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child4,
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 27.78%;
+    right: 33.43%;
+    bottom: 59.44%;
+    left: 48.94%;
+  }
+  .desktop-1-child5,
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 43.61%;
+    bottom: 43.61%;
+  }
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    right: 12.98%;
+    left: 69.39%;
+  }
+  .desktop-1-child8 {
+    height: 28.61%;
+    top: 27.78%;
+    bottom: 43.61%;
+  }
+  .game-info,
+  .time-is-according {
+    position: absolute;
+    display: inline-block;
+  }
+  .game-info {
+    width: 43.29%;
+    top: 30.56%;
+    left: 74.3%;
+    font-size: 32px;
+  }
+  .time-is-according {
+    width: 31.61%;
+    top: 34.72%;
+    left: 72.5%;
+    font-size: var(--font-size-xs);
+    color: rgba(255, 255, 255, 0.3);
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 41px;
+    left: calc(50% - 75px);
+    width: 130px;
+    height: 120px;
+    object-fit: cover;
+  }
+  .battle-royale {
+    position: absolute;
+    top: 164px;
+    left: calc(50% - 147px);
+    font-size: var(--font-size-lg);
+    font-weight: 500;
+    font-family: var(--font-minecraft);
+    color: #fff200;
+  }
+  .desktop-1-child9,
+  .ellipse-icon {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 30%;
+    right: 88.49%;
+    bottom: 66.39%;
+    left: 9.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child9 {
+    top: 34.72%;
+    bottom: 61.67%;
+  }
+  .not-levi,
+  .orangick {
+    position: absolute;
+    width: 21.61%;
+    top: 30.46%;
+    left: 12.29%;
+    display: inline-block;
+  }
+  .orangick {
+    width: 27.03%;
+    top: 35.19%;
+  }
+  .desktop-1-child10,
+  .desktop-1-child11 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 45.83%;
+    right: 88.49%;
+    bottom: 50.56%;
+    left: 9.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child11 {
+    top: 50.56%;
+    bottom: 45.83%;
+  }
+  .istealthy,
+  .minutes-estimated,
+  .shlaq {
+    position: absolute;
+    width: 27.81%;
+    top: 46.3%;
+    left: 12.29%;
+    display: inline-block;
+  }
+  .istealthy,
+  .minutes-estimated {
+    width: 23.28%;
+    top: 51.02%;
+  }
+  .minutes-estimated {
+    width: 12.34%;
+    top: 39.26%;
+    left: 73.44%;
+    font-size: var(--font-size-sm);
+  }
+  .timer-icon {
+    position: absolute;
+    height: 4.44%;
+    width: 2.37%;
+    top: 38.33%;
+    right: 27.01%;
+    bottom: 57.22%;
+    left: 70.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .cntry-time {
+    position: absolute;
+    width: 12.34%;
+    top: 44.17%;
+    left: 73.44%;
+    font-size: var(--font-size-sm);
+    display: inline-block;
+  }
+  .alarm-clock-icon {
+    position: absolute;
+    height: 3.52%;
+    width: 1.98%;
+    top: 43.61%;
+    right: 27.19%;
+    bottom: 52.87%;
+    left: 70.83%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .div {
+    position: absolute;
+    width: 13.54%;
+    top: 30%;
+    left: 20.73%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #00ffe0, #001aff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  }
+  .desktop-1-child12,
+  .desktop-1-child13,
+  .desktop-1-child14,
+  .desktop-1-child15,
+  .desktop-1-child16,
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    position: absolute;
+    height: 12.78%;
+    width: 6.77%;
+    top: 43.61%;
+    right: 74.27%;
+    bottom: 43.61%;
+    left: 18.96%;
+    border-radius: 0 var(--br-md) var(--br-md) 0;
+    background-color: var(--color-gray-100);
+    border: 2px solid var(--color-gray-200);
+    box-sizing: border-box;
+  }
+  .desktop-1-child13,
+  .desktop-1-child14,
+  .desktop-1-child15,
+  .desktop-1-child16,
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child14,
+  .desktop-1-child15,
+  .desktop-1-child16,
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 27.78%;
+    right: 53.91%;
+    bottom: 59.44%;
+    left: 39.32%;
+  }
+  .desktop-1-child15,
+  .desktop-1-child16,
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 43.61%;
+    bottom: 43.61%;
+  }
+  .desktop-1-child16,
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child17,
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 27.78%;
+    right: 33.44%;
+    bottom: 59.44%;
+    left: 59.79%;
+  }
+  .desktop-1-child18,
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 43.61%;
+    bottom: 43.61%;
+  }
+  .desktop-1-child19,
+  .desktop-1-child20 {
+    top: 59.44%;
+    bottom: 27.78%;
+  }
+  .desktop-1-child20 {
+    right: 12.97%;
+    left: 80.26%;
+  }
+  .div1 {
+    position: absolute;
+    width: 12.55%;
+    top: 45.65%;
+    left: 20.99%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #fff200, #ff3d00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+  }
+  .desktop-1-child21,
+  .desktop-1-child22 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 61.85%;
+    right: 88.49%;
+    bottom: 34.54%;
+    left: 9.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child22 {
+    top: 66.57%;
+    bottom: 29.81%;
+  }
+  .div2,
+  .thellama,
+  .yeslucid {
+    position: absolute;
+    width: 27.4%;
+    top: 62.31%;
+    left: 12.29%;
+    display: inline-block;
+  }
+  .div2,
+  .thellama {
+    width: 19.53%;
+    top: 67.04%;
+  }
+  .div2 {
+    width: 17.08%;
+    top: 62.04%;
+    left: 20.99%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #00ff38, #5200ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child23,
+  .desktop-1-child24 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 61.85%;
+    right: 47.76%;
+    bottom: 34.54%;
+    left: 50.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child24 {
+    top: 66.57%;
+    bottom: 29.81%;
+  }
+  .bind,
+  .div3,
+  .nis {
+    position: absolute;
+    width: 8.91%;
+    top: 62.31%;
+    left: 53.02%;
+    display: inline-block;
+  }
+  .bind,
+  .div3 {
+    width: 10.99%;
+    top: 67.04%;
+  }
+  .div3 {
+    width: 14.74%;
+    top: 61.67%;
+    left: 61.72%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #f09, #00092b 81.37%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child25,
+  .desktop-1-child26 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 61.85%;
+    right: 27.34%;
+    bottom: 34.54%;
+    left: 70.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child26 {
+    top: 66.57%;
+    bottom: 29.81%;
+  }
+  .div4,
+  .rystal,
+  .woocie {
+    position: absolute;
+    width: 11.04%;
+    top: 62.31%;
+    left: 73.44%;
+    display: inline-block;
+  }
+  .div4,
+  .rystal {
+    width: 11.82%;
+    top: 67.04%;
+  }
+  .div4 {
+    width: 15.57%;
+    top: 62.41%;
+    left: 81.04%;
+    font-size: 81px;
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #f30102, #00092b 74.28%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child27,
+  .desktop-1-child28 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 29.91%;
+    right: 47.76%;
+    bottom: 66.48%;
+    left: 50.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child28 {
+    top: 34.63%;
+    bottom: 61.76%;
+  }
+  .azpect,
+  .div5,
+  .kohvch {
+    position: absolute;
+    width: 14.22%;
+    top: 30.37%;
+    left: 53.02%;
+    display: inline-block;
+  }
+  .div5,
+  .kohvch {
+    width: 12.29%;
+    top: 35.09%;
+  }
+  .div5 {
+    width: 13.54%;
+    top: 30.09%;
+    left: 61.72%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #50f801, #010301 66.7%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child29,
+  .desktop-1-child30 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 45.83%;
+    right: 47.76%;
+    bottom: 50.56%;
+    left: 50.21%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child30 {
+    top: 50.56%;
+    bottom: 45.83%;
+  }
+  .aeon,
+  .div6,
+  .idknows {
+    position: absolute;
+    width: 12.29%;
+    top: 46.3%;
+    left: 53.02%;
+    display: inline-block;
+  }
+  .div6,
+  .idknows {
+    width: 15.73%;
+    top: 51.02%;
+  }
+  .div6 {
+    width: 14.38%;
+    top: 46.02%;
+    left: 61.72%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #0584f2, #626c10 78.56%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child31,
+  .desktop-1-child32 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 61.85%;
+    right: 68.18%;
+    bottom: 34.54%;
+    left: 29.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child32 {
+    top: 66.57%;
+    bottom: 29.81%;
+  }
+  .div7,
+  .su4n,
+  .xuki {
+    position: absolute;
+    width: 9.74%;
+    top: 62.31%;
+    left: 32.6%;
+    display: inline-block;
+  }
+  .div7,
+  .su4n {
+    top: 67.04%;
+  }
+  .div7 {
+    width: 13.59%;
+    top: 62.04%;
+    left: 41.3%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #00ffe0, #5200ff 53.65%, #00ff38 76.47%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child33,
+  .desktop-1-child34 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 45.65%;
+    right: 68.18%;
+    bottom: 50.74%;
+    left: 29.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child34 {
+    top: 50.37%;
+    bottom: 46.02%;
+  }
+  .and-plus,
+  .decy,
+  .div8 {
+    position: absolute;
+    width: 5.21%;
+    top: 46.11%;
+    left: 32.6%;
+    display: inline-block;
+  }
+  .decy,
+  .div8 {
+    width: 3.02%;
+    top: 50.83%;
+  }
+  .div8 {
+    width: 17.55%;
+    top: 45.83%;
+    left: 41.3%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #00ff38, #cf0 63.28%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .desktop-1-child35,
+  .desktop-1-child36 {
+    position: absolute;
+    height: 3.61%;
+    width: 2.03%;
+    top: 30%;
+    right: 68.18%;
+    bottom: 66.39%;
+    left: 29.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .desktop-1-child36 {
+    top: 34.72%;
+    bottom: 61.67%;
+  }
+  .div9,
+  .monkeyfog,
+  .salty {
+    position: absolute;
+    width: 12.69%;
+    top: 30.46%;
+    left: 32.63%;
+    display: inline-block;
+  }
+  .div9,
+  .monkeyfog {
+    width: 14%;
+    top: 35.19%;
+    font-size: var(--font-size-sm);
+  }
+  .div9 {
+    width: 17.92%;
+    top: 29.81%;
+    left: 40.94%;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-dirtyline-36daysoftype-2022);
+    background: linear-gradient(180deg, #f09, #5200ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .many-credits-to,
+  .server-ip-yet {
+    position: absolute;
+    top: calc(50% + 294px);
+    left: calc(50% - 229px);
+    font-weight: 500;
+    font-family: var(--font-minecraft);
+  }
+  .server-ip-yet {
+    top: calc(50% + 486px);
+    left: calc(50% - 99px);
+    font-size: var(--font-size-xs);
+  }
+  .span,
+  .su4n1 {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .su4n1 {
+    background: linear-gradient(267.92deg, #1e98fd, #5001f8 51.04%, #0bde51);
+  }
+  .span {
+    background: linear-gradient(268.25deg, #1e98fd, #5001f8 51.04%, #0bde51);
+  }
+  .made-by-su4n-container {
+    position: absolute;
+    top: calc(50% + 326px);
+    left: calc(50% - 136px);
+    font-weight: 500;
+    font-family: var(--font-minecraft);
+  }
+  .desktop-1-child37 {
+    position: absolute;
+    top: calc(50% + 372px);
+    left: calc(50% - 226px);
+    border-radius: 13px;
+    background-color: var(--color-gray-100);
+    border: 3px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 451px;
+    height: 93px;
+  }
+  .x,
+  .x1,
+  .x2,
+  .x3,
+  .xxx {
+    position: absolute;
+    top: calc(50% + 398px);
+    left: calc(50% - 211px);
+    font-size: var(--font-size-2xs);
+    font-weight: 500;
+    font-family: var(--font-minecraft);
+    color: var(--color-darkslategray);
+  }
+  .x1,
+  .x2,
+  .x3,
+  .xxx {
+    top: calc(50% + 452px);
+  }
+  .x2,
+  .x3,
+  .xxx {
+    top: calc(50% + 398px);
+    left: calc(50% + 200px);
+  }
+  .x3,
+  .xxx {
+    top: calc(50% + 452px);
+  }
+  .xxx {
+    top: calc(50% + 395px);
+    left: calc(50% - 179px);
+    font-size: var(--font-size-lg);
+    display: inline-block;
+    width: 366px;
+    height: 48px;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: #000;
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  
+
+/*# sourceMappingURL=/codespaces-blank.9ad09f98.css.map */
